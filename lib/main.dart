@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-
+//how to add an image in flutter
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
